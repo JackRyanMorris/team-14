@@ -1,2 +1,11 @@
-*.yyz
 .idea/
+_build/
+*.yyz
+*.exe
+*.dll
+*.log
+*.tmp
+*.cache
+*.zip
+options.ini
+config.json
